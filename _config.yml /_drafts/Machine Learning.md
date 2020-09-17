@@ -1,4 +1,6 @@
 ---
+image: "/uploads/ml.jpg"
+date: 2020-09-17 13:30:00 +0000
 
 ---
 AI is a use of computerized reasoning (AI) that gives frameworks the capacity to naturally take in and improve as a matter of fact without being unequivocally modified. AI centers around the improvement of PC programs that can get to information and use it learn for themselves. 
