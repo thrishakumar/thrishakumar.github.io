@@ -17,4 +17,4 @@ fields:
     time_format: 
     display_utc: false
 pages:
-- _config.yml /_posts/Machine Learning.md
+- _config.yml /_posts/2020-09-17-Machine Learning.md
