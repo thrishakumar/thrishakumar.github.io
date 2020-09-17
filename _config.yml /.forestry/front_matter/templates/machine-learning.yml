@@ -1,6 +1,20 @@
 ---
 label: Machine Learning
 hide_body: false
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - _config.yml /_posts/Machine Learning.md
