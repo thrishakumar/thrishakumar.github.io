@@ -2,3 +2,5 @@
 label: Machine Learning
 hide_body: false
 fields: []
+pages:
+- _config.yml /_posts/Machine Learning.md
